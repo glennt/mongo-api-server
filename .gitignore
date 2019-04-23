@@ -1,0 +1,22 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log
+bower_components/
+
+# Generated
+dist/
+build/
+build-output/
